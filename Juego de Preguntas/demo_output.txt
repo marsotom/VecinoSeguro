@@ -1,0 +1,80 @@
+═══════════════════════════════════════════════════════════════════
+    GENERADOR DE PREGUNTAS PARA FIESTAS - DEMOSTRACIÓN
+═══════════════════════════════════════════════════════════════════
+
+🎉 Interfaz Principal:
+
+┌────────────────────────────────────────────────────────────────┐
+│                                                                  │
+│              🎉 Generador de Preguntas                          │
+│                  Para animar tu fiesta                          │
+│                                                                  │
+│  ┌──────┐ ┌─────────┐ ┌─────────────┐ ┌───────────┐ ┌────────┐│
+│  │Todas │ │Verdad o │ │Conocimiento │ │Divertidas │ │Profundas││
+│  └──────┘ │  Reto   │ └─────────────┘ └───────────┘ └────────┘│
+│           └─────────┘                                           │
+│  ┌──────────┐                                                   │
+│  │Hipotéticas│                                                  │
+│  └──────────┘                                                   │
+│                                                                  │
+│  ┌────────────────────────────────────────────────────────────┐│
+│  │                                                              ││
+│  │              TODAS LAS CATEGORÍAS                           ││
+│  │                                                              ││
+│  │   Haz clic en el botón para generar una pregunta           ││
+│  │                                                              ││
+│  └────────────────────────────────────────────────────────────┘│
+│                                                                  │
+│  ┌────────────────────────────────────────────────────────────┐│
+│  │              📝 Generar Pregunta                            ││
+│  └────────────────────────────────────────────────────────────┘│
+│                                                                  │
+└────────────────────────────────────────────────────────────────┘
+
+═══════════════════════════════════════════════════════════════════
+    EJEMPLOS DE PREGUNTAS GENERADAS
+═══════════════════════════════════════════════════════════════════
+
+📌 Ejemplo 1 - Categoría: VERDAD O RETO
+────────────────────────────────────────────────────────────────
+¿Cuál es tu mayor secreto que nunca le has contado a nadie?
+
+📌 Ejemplo 2 - Categoría: CONOCIMIENTO
+────────────────────────────────────────────────────────────────
+¿Quién pintó la Mona Lisa?
+
+📌 Ejemplo 3 - Categoría: DIVERTIDAS
+────────────────────────────────────────────────────────────────
+Si fueras un animal, ¿cuál serías y por qué?
+
+📌 Ejemplo 4 - Categoría: PROFUNDAS
+────────────────────────────────────────────────────────────────
+¿Cuál es el momento que más ha cambiado tu vida?
+
+📌 Ejemplo 5 - Categoría: HIPOTÉTICAS
+────────────────────────────────────────────────────────────────
+Si pudieras viajar en el tiempo, ¿irías al pasado o al futuro?
+
+═══════════════════════════════════════════════════════════════════
+    ESTADÍSTICAS DEL PROYECTO
+═══════════════════════════════════════════════════════════════════
+
+📊 Total de preguntas:        100
+📚 Categorías disponibles:    5 + 1 combinada
+💾 Tamaño de archivos:        < 20KB
+🚀 Dependencias externas:     0
+✅ Navegadores compatibles:   Chrome, Firefox, Safari, Edge, Opera
+📱 Responsive:                Sí (móvil, tablet, desktop)
+🌐 Idioma:                    Español
+🔒 Requiere internet:         No
+
+═══════════════════════════════════════════════════════════════════
+    CÓMO USAR
+═══════════════════════════════════════════════════════════════════
+
+1. Abrir "index.html" en tu navegador
+2. Seleccionar una categoría
+3. Hacer clic en "Generar Pregunta" (o presionar Enter)
+4. ¡Disfrutar de la fiesta!
+
+═══════════════════════════════════════════════════════════════════
